@@ -1,30 +1,19 @@
-# 100 Days Of Code - Log
+# 100 Dias de Código - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: Janeiro 20, 2020
+##### Criei um gerador de nomes em Java
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Progresso de Hoje**: Criei um programinha útil e funcional, ainda que simples. Utilizei arrays, método/função e numeros aleatórios
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Pensamentos:** Gostaria de melhorar mais a geração de palavras e não depender apenas de um dicionário de exemplos feito em um array, talvez combinar letras e vogais e colocar regras gramáticais. Quem sabe um gerador de hash no futuro? Esse software também é a semente para um gerador de brasileiro.
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work:** [Gerador de Nomes](https://github.com/wagfim/GeradorDeNomesJavaConsole)
 
 
-### Day 1: June 27, Monday
+### Day 1: Janeiro 21, 2020
+##### ...
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Progresso de Hoje**: ...
+**Pensamentos:** ...
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** [Example](https://example.com)
